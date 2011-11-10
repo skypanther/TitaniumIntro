@@ -1,0 +1,14 @@
+Titanium Introduction and Overview
+
+Slides (PowerPoint and Keynote) introduce the basic features of the Titanium mobile development platform.
+
+Two projects:
+
+MapDemo - meant to show how simple it is to create an app that would involve a fair bit of code in Java/ObjectiveC. This one just creates a map with a single annotation and event listener.
+
+RSSReader - shows a more complex app, built in the module CommonJS require() pattern. It uses event messaging, networking, XML parsing, and web views. 
+
+
+Titanium introduction and sample code by Tim Poulsen, @skypanther is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. Based on a work at github.com.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Titanium introduction and sample code</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Tim Poulsen, @skypanther</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/skypanther/TitaniumIntro" rel="dct:source">github.com</a>.
