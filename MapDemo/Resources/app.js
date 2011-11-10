@@ -6,8 +6,8 @@ var win = Ti.UI.createWindow({
 
 var anno = Ti.Map.createAnnotation({
 	latitude:43.082602,
-	pincolor:Titanium.Map.ANNOTATION_GREEN,
 	longitude:-77.676859,
+	pincolor:Titanium.Map.ANNOTATION_GREEN,
 	title:"RIT Campus Rochester",
 	rightButton: 'rit_logo.png'
 });
@@ -16,7 +16,8 @@ var map = Ti.Map.createView({
 		latitude:43.082602,
 		longitude:-77.676859,
 		latitudeDelta:0.01,
-		longitudeDelta:0.01},
+		longitudeDelta:0.01
+	},
 	animate:true,
 	regionFit:true,
 	annotations:[anno]
